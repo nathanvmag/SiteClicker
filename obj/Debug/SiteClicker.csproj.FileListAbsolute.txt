@@ -1,0 +1,10 @@
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\bin\Debug\SiteClicker.exe
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\bin\Debug\SiteClicker.pdb
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.csprojAssemblyReference.cache
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.Form1.resources
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.Properties.Resources.resources
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.csproj.GenerateResource.cache
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.csproj.CoreCompileInputs.cache
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.exe
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.pdb
+D:\GitHub\SiteClicker\SiteClicker\SiteClicker\bin\Debug\SiteClicker.exe.config
