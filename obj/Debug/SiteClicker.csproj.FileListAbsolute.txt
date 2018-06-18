@@ -8,3 +8,17 @@ D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.csproj.CoreC
 D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.exe
 D:\GitHub\SiteClicker\SiteClicker\SiteClicker\obj\Debug\SiteClicker.pdb
 D:\GitHub\SiteClicker\SiteClicker\SiteClicker\bin\Debug\SiteClicker.exe.config
+D:\github\SiteClicker\bin\Debug\SiteClicker.exe.config
+D:\github\SiteClicker\bin\Debug\SiteClicker.exe
+D:\github\SiteClicker\bin\Debug\SiteClicker.pdb
+D:\github\SiteClicker\obj\Debug\SiteClicker.Form1.resources
+D:\github\SiteClicker\obj\Debug\SiteClicker.Properties.Resources.resources
+D:\github\SiteClicker\obj\Debug\SiteClicker.csproj.GenerateResource.cache
+D:\github\SiteClicker\obj\Debug\SiteClicker.exe
+D:\github\SiteClicker\obj\Debug\SiteClicker.pdb
+D:\github\SiteClicker\obj\Debug\SiteClicker.Historico.resources
+D:\github\SiteClicker\bin\Debug\Newtonsoft.Json.dll
+D:\github\SiteClicker\bin\Debug\Newtonsoft.Json.xml
+D:\github\SiteClicker\obj\Debug\SiteClicker.csprojAssemblyReference.cache
+D:\github\SiteClicker\obj\Debug\SiteClicker.csproj.CoreCompileInputs.cache
+D:\github\SiteClicker\obj\Debug\SiteClicker.csproj.CopyComplete
