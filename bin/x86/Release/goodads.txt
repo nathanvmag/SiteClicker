@@ -1,0 +1,1 @@
+﻿[{"nome":"juca","fblink":null,"bloglink":"google-c","qntsabas":1,"totaltime":1,"when":"2018-07-15T23:54:09.0198906-03:00"},{"nome":"juca","fblink":null,"bloglink":"google-co","qntsabas":2,"totaltime":1,"when":"2018-07-15T23:59:23.6356537-03:00"},{"nome":"jucao","fblink":null,"bloglink":"google-co","qntsabas":2,"totaltime":1,"when":"2018-07-16T00:00:02.7854363-03:00"}]
